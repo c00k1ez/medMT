@@ -1,0 +1,175 @@
+Абсцесс	abscess
+Алкоголизм	alcoholism
+Аллергия	allergy
+Ангина	quinsy
+Аневризма	aneurism, aneurysm
+Анемия	anaemia
+Анорексия	anorexia
+Аппендицит	appendicitis
+Аритмия	arrhythmia
+Артрит	arthritis
+Астигматизм	astigmatism
+Астма	asthma
+Атеросклероз	atherosclerosis
+Атрофия	atrophy
+Аутизм	autism
+Бесплодие	infertility
+Бессонница	insomnia
+Бешенство	rabies
+Близорукость	myopia
+Бородавки	warts
+Ботулизм	botulism
+Бронхит	bronchitis
+Варикоз	varix, varicosity
+Ветрянка	chicken pox
+Витилиго	vitiligo
+Водянка	dropsy
+Гайморит	antritis
+Гангрена	gangrene
+Гастрит	gastritis
+Гематома	haematoma
+Геморрой	piles
+Гемофилия	haemophilia
+Гепатит	hepatitis
+Герпес	herpes
+Гипертония	hypertension
+Глаукома	glaucoma
+Глист	helminth, worm
+Гонорея	gonorrhoea
+Грипп	flu, influenza
+Грыжа	rupture, hernia
+Дальнозоркость	long sight
+Дальтонизм	colourblindness, daltonism
+Дерматит	dermatitis
+Диабет	diabetes
+Диарея	diarrhea
+Дисбактериоз	disbacteriosis
+Дистрофия	dystrophy
+Дифтерия	diphtheria
+Желтуха	jaundice, icterus
+Заикание	stamming, stutting
+Запор	constipation
+Зоб	goitre, wen
+Зуд	itch
+Импотенция	impotence
+Инсульт	stroke, apoplexy
+Инфаркт миокарда	myocardial [cardiac] infarction
+Ишемия	ischaemia
+Кариес	caries
+Катаракта	cataract
+Кашель	cough
+Киста	cyst
+Климакс	menopause
+Коклюш	hooping cough
+Колика	colic
+Колит	colitis
+Кольпит	colpitis, vaginitis
+Кондилома	condyloma
+Конъюнктивит	conjunctivitis
+Корь	measles
+Косоглазие	squint, cast in the eye, strabismus
+Крапивница	nettle rash
+Краснуха	German measles
+Ларингит	laryngitis
+Лейкоз	leukaemia
+Лимфостаз	lymphostasis
+Лихорадка	fever
+Лишай	herpes
+Малярия	malaria
+Мастит	mastitis
+Меланома	melanoma
+Менингит	meningitis
+Мигрень	migraine
+Миома	myoma
+Молочница	thrush
+Наркомания	drug addiction, narcomania
+Нарыв	abscess, boil
+Насморк	cold, rhinitis
+Невралгия	neuralgia
+Невроз	neurosis
+Нейродермит	neurodermatitis
+Нефрит	nephritis
+Облысение	alopecia
+Обморок	syncope
+Ожирение	obesity
+Ожог	burn
+Олигофрения	oligophrenia
+Опухоль	swelling, tumour
+Оспа	smallpox
+Остеопороз	osteoporosis
+Остеохондроз	Intervertebral Osteochondrosis
+Отёк	oedema
+Отит	otitus
+Отморожение	frostbite, congelation
+Панкреатит	pancreatitis
+Папиллома	papilloma, papillary tumor
+Паралич	paralysis, palsy
+Пародонтоз	parodontosis, amphodontosis
+Педикулез	pediculosis
+Перелом	fracture
+Переохлаждение	exposure
+Пиелонефрит	pyelonephritis
+Плеврит	pleurisy
+Плоскостопие	flat-footedness
+Пневмония	pneumonia
+Подагра	gout, podagra
+Полиомиелит	poliomyelitis, polio
+Полип	polypus
+Потница	miliaria, heat rash, prickly heat
+Пролежни	bedsore
+Простатит	prostatitis
+Прыщи	pimple, spot, pustule
+Психоз	psychosis
+Псориаз	psoriasis
+Радикулит	radiculitis
+Рак	cancer
+Рахит	rachitis, rickets
+Ревматизм	rheumatism, rheumatics
+Ринит	rhinitis
+Рожа	erysipelas
+Сальмонеллез	salmonellosis
+Саркома	sarcoma
+Свинка	mumps
+Свищ	fistula
+Себорея	seborrhea
+Сепсис	septicaemia, sepsis
+Сифилис	syphilis
+Скарлатина	scarlet fever, scarlatina
+Склероз	sclerosis
+Сколиоз	scoliosis
+Слепота	blindness
+Сотрясение мозга	brain concussion
+СПИД	AIDS (acquired immunodeficiency syndrome)
+Стенокардия	stenocardia
+Столбняк	tetanus
+Тахикардия	tachycardia
+Тиф	typhus
+Токсикоз	toxicosis
+Тонзиллит	tonsillitis
+Триппер	gonorrhoea
+Тромбоз	thrombosis
+Туберкулёз	tuberculosis, T.B.
+Угри	acne
+Ушиб	injury
+Фарингит	pharyngitis
+Фиброз	fibrosis
+Флегмона	phlegmon
+Флюс	dental abscess, gumboil
+Фурункулёз	furunculosis
+Хламидиоз	chlamydia
+Холера	cholera
+Целлюлит	cellulitis
+Цирроз	cirrhosis
+Цистит	cystitis
+Чесотка	scab, rash,
+Чума	plague
+Шизофрения	schizophrenia
+Шок	shock
+Экзема	eczema
+Энурез	enuresis
+Эпилепсия	epilepsy
+Эрозия	erosion
+Язва	ulcer, sore
+Ячмень	sty
+Ячмень	stye
+Ящур	murrain, foot-and-mouth disease

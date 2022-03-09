@@ -1,0 +1,22 @@
+python ./transformers/examples/pytorch/translation/run_translation.py \
+    --model_name_or_path 'Helsinki-NLP/opus-mt-ru-en' \
+    --do_train \
+    --do_eval \
+    --save_strategy steps \
+    --source_lang ru \
+    --num_train_epochs 10 \
+    --target_lang en \
+    --max_source_length 512 \
+    --max_target_length 512 \
+    --val_max_target_length 512 \
+    --train_file './data/train.jsonl' \
+    --validation_file './data/val.jsonl' \
+    --output_dir './experiments/contest_train' \
+    --per_device_train_batch_size=2 \
+    --per_device_eval_batch_size=4 \
+    --overwrite_output_dir \
+    --pad_to_max_length False \
+    --save_steps 1000 \
+    --evaluation_strategy steps \
+    --logging_steps 5000 \
+    --predict_with_generate

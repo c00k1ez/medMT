@@ -1,0 +1,171 @@
+a contagious disease - заразное заболевание
+
+a viral disease - вирусное заболевание
+
+a bacterial disease - бактериальное заболевание
+
+a hereditary disease - наследственное заболевание
+
+the flu - грипп
+
+influenza - грипп
+
+rhinitis - ринит
+
+tonsillitis - тонзиллит
+
+quinsy - ангина
+
+bronchitis - бронхит
+
+pneumonia - воспаление легких
+
+pneumonia - пневмония, воспаление легких
+
+tuberculosis - туберкулез
+
+cancer lung - рак легких
+
+cancer breast - рак груди
+
+cancer liver - рак печени
+
+a tumour - опухоль
+
+diabetes - диабет
+
+anaemia - анемия
+
+migraine - мигрень
+
+hypertension - гипертония
+
+arthritis - артрит
+
+rheumatism - ревматизм
+
+rupture - грыжа
+
+hernia - грыжа
+
+a cyst - киста
+
+a myoma - миома
+
+meningitis - менингит
+
+asthma - астма
+
+allergy - аллергия
+
+hay fever - сенная лихорадка
+
+a stroke - инсульт
+
+a heart attack - сердечный приступ
+
+myocardial infarction - инфаркт миокарда
+
+paralysis - паралич
+
+autism - аутизм
+
+leukemia - лейкоз
+
+hepatitis - гепатит
+
+jaundice - желтуха
+
+renal failure - почечная недостаточность
+
+heart failure - сердечная недостаточность
+
+diphtheria - дифтерия
+
+a whooping cough - коклюш
+
+herpes - герпес
+
+Alzheimer’s disease - болезнь Альцгеймера
+
+Parkinson’s disease - болезнь Паркинсона
+
+cerebral palsy - церебральный паралич
+
+psoriasis - псориаз
+
+brain concussion - сотрясение мозга
+
+multiple sclerosis - рассеянный склероз
+
+prostatitis - простатит
+
+haemorrhoids - геморрой
+
+insomnia - бессонница
+
+infertility - бесплодие
+
+thrush - молочница
+
+blindness - слепота
+
+deafness - глухота
+
+flat-footedness - плоскостопие
+
+alopecia - облысение
+
+seasickness - морская болезнь
+
+appendicitis - аппендицит
+
+ulcer - язва
+
+stomach ulcer - язва желудка
+
+gastritis - гастрит
+
+cirrhosis - цирроз
+
+epilepsy - эпилепсия
+
+dementia - слабоумие
+
+dental abscess - флюс
+
+acne - угри
+
+pediculosis - педикулез
+
+myopia - близорукость
+
+long sight - дальнозоркость
+
+conjunctivitis - конъюнктивит
+
+dropsy - водянка
+
+dysentery - дизентерия
+
+intestinal parasites - кишечные паразиты
+
+scarlet fever - скарлатина
+
+mumps - свинка
+
+smallpox - оспа
+
+chicken pox - ветрянка
+
+measles - корь
+
+German measles - краснуха
+
+malaria - малярия
+
+typhoid - тиф
+
+cholera - холера
+
+plague - чума
