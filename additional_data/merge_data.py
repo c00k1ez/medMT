@@ -35,7 +35,7 @@ def write_output(file_path, data, format):
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('--files', type=str)
-    parser.add_argument('--file_dir', type=str, default='./clean_data')
+    parser.add_argument('--output_dir', type=str, default='./clean_data')
     parser.add_argument('--output_format', choices=['transformers', 'opennmt'], default='transformers')
     parser.add_argument('--output_file', type=str)
 
@@ -46,8 +46,8 @@ if __name__ == '__main__':
 
     files = args.files.split(',')
     
-    files = [Path(args.file_dir, f) for f in files]
-    output_file = Path(args.file_dir, args.output_file)
+    files = [Path(args.output_dir, f) for f in files]
+    output_file = Path(args.output_dir, args.output_file)
 
     merged_data = merge(files, args.output_format)
     write_output(output_file, merged_data, args.output_format)
