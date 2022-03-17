@@ -9,8 +9,8 @@ python ./transformers/examples/pytorch/translation/run_translation.py \
     --max_source_length 512 \
     --max_target_length 512 \
     --val_max_target_length 512 \
-    --train_file './data/train.jsonl' \
-    --validation_file './data/val.jsonl' \
+    --train_file './data/train.json' \
+    --validation_file './data/val.json' \
     --output_dir './experiments/contest_train' \
     --per_device_train_batch_size=2 \
     --per_device_eval_batch_size=4 \
