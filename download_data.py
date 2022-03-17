@@ -40,11 +40,22 @@ def open_zip(file_path, target_dir):
         zip_ref.extractall(target_dir)
 
 
-if __name__ == "__main__":
-    base_dir = './train_test_data'
+def get_dataset(base_dir, file_id):
+    
     if not os.path.exists(base_dir):
-        os.mkdir(base_dir)
-    file_id = '163LCsGjr2YKY_PZ11nd-r79TRRanrWvj'
+        os.makedirs(base_dir)
+    
     destination = f'{base_dir}/data.zip'
     download_file_from_google_drive(file_id, destination)
     open_zip(destination, base_dir)
+
+
+if __name__ == "__main__":
+    data_base_dir = './train_test_data'
+    data_file_id = '163LCsGjr2YKY_PZ11nd-r79TRRanrWvj'
+    get_dataset(data_base_dir, data_file_id)
+
+    add_data_base_dir = './additional_data/clean_data'
+    add_data_file_id = '1v5FqWjPLewH1ZjP9ubwjYP22_Zl4e9v5'
+    get_dataset(add_data_base_dir, add_data_file_id)
+
