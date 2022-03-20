@@ -4,7 +4,7 @@ python ./transformers/examples/pytorch/translation/run_translation.py \
     --do_eval \
     --save_strategy steps \
     --source_lang ru \
-    --num_train_epochs 10 \
+    --num_train_epochs 30 \
     --target_lang en \
     --max_source_length 512 \
     --max_target_length 512 \
@@ -12,8 +12,8 @@ python ./transformers/examples/pytorch/translation/run_translation.py \
     --train_file './data/train.json' \
     --validation_file './data/val.json' \
     --output_dir './experiments/contest_train' \
-    --per_device_train_batch_size=2 \
-    --per_device_eval_batch_size=4 \
+    --per_device_train_batch_size=40 \
+    --per_device_eval_batch_size=20 \
     --overwrite_output_dir \
     --pad_to_max_length False \
     --save_steps 1000 \

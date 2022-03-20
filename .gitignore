@@ -18,3 +18,4 @@ additional_data/clean_data/
 train_test_data/
 train_transformers/data/
 train_transformers/transformers/
+experiments/

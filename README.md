@@ -6,14 +6,18 @@ To reproduce:
 ```bash
 python download_baseline_data.py
 ```
-2. Parse additional data:
+2. (not necessary) Parse additional data:
 ```bash
 cd additional_data
 pip install -r requirements.txt
 bash run_parse.sh
 cd ..
 ```
-3. Setup & run pipeline
+3. If you dont have `bc` util, install it. For example for linux you can do it via:  
+```bash
+apt install bc -y
+```
+4. Setup & run pipeline:
 ```bash
 cd train_transformers
 bash setup_env.sh
