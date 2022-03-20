@@ -4,7 +4,7 @@ To reproduce:
 0. Create venv/conda env.
 1. Download WMT2020 medical data:
 ```bash
-python download_baseline_data.py
+python download_data.py
 ```
 2. (not necessary) Parse additional data:
 ```bash
@@ -21,5 +21,6 @@ apt install bc -y
 ```bash
 cd train_transformers
 bash setup_env.sh
+bash get_data.sh
 bash train.sh
 ```
