@@ -22,4 +22,4 @@ python ./transformers/examples/pytorch/translation/run_translation.py \
     --predict_with_generate \
     --learning_rate 5e-6 \
     --warmup_steps 1000 \
-    --gradient_accumulation_steps 1
+    --gradient_accumulation_steps 5
