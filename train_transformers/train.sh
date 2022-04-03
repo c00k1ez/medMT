@@ -4,7 +4,7 @@ python ./transformers/examples/pytorch/translation/run_translation.py \
     --do_eval \
     --save_strategy steps \
     --source_lang ru \
-    --num_train_epochs 30 \
+    --num_train_epochs 15 \
     --target_lang en \
     --max_source_length 512 \
     --max_target_length 512 \
@@ -19,4 +19,6 @@ python ./transformers/examples/pytorch/translation/run_translation.py \
     --save_steps 1000 \
     --evaluation_strategy steps \
     --logging_steps 5000 \
-    --predict_with_generate
+    --predict_with_generate \
+    --learning_rate 5e-6 \
+    --warmup_steps 1000
