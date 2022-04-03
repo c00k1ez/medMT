@@ -41,12 +41,11 @@ def write_output(submit_path, data):
 
 
 if __name__ == '__main__':
-    test_data_path = './train_transformers/data/test.json'
-    submit_path = './train_transformers/data/submission.jsonl'
+    test_data_path = './data/test.json'
+    submit_path = './data/submission.jsonl'
     data = read_json(test_data_path)
     
     model_name = './experiments/contest_train'
     translated = translate(data, model_name, 20)
     new_data = format_output(data, translated)
     write_output(submit_path, new_data)
-    
